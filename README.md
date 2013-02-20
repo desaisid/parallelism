@@ -2,4 +2,4 @@ parallelism
 ===========
 
 My collection of parallel algorithms:
--kmeans clustering algorithm using CUDA
+*)kmeans clustering algorithm using CUDA
